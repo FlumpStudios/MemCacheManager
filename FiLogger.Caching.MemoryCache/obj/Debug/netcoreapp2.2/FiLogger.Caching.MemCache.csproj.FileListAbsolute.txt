@@ -1,0 +1,9 @@
+C:\Users\paul.marrable\Documents\Dev\MemCacheManager\FiLogger.Caching.MemoryCache\bin\Debug\netcoreapp2.2\FiLogger.Caching.MemCache.deps.json
+C:\Users\paul.marrable\Documents\Dev\MemCacheManager\FiLogger.Caching.MemoryCache\bin\Debug\netcoreapp2.2\FiLogger.Caching.MemCache.dll
+C:\Users\paul.marrable\Documents\Dev\MemCacheManager\FiLogger.Caching.MemoryCache\bin\Debug\netcoreapp2.2\FiLogger.Caching.MemCache.pdb
+C:\Users\paul.marrable\Documents\Dev\MemCacheManager\FiLogger.Caching.MemoryCache\obj\Debug\netcoreapp2.2\FiLogger.Caching.MemCache.csprojAssemblyReference.cache
+C:\Users\paul.marrable\Documents\Dev\MemCacheManager\FiLogger.Caching.MemoryCache\obj\Debug\netcoreapp2.2\FiLogger.Caching.MemCache.csproj.CoreCompileInputs.cache
+C:\Users\paul.marrable\Documents\Dev\MemCacheManager\FiLogger.Caching.MemoryCache\obj\Debug\netcoreapp2.2\FiLogger.Caching.MemCache.AssemblyInfoInputs.cache
+C:\Users\paul.marrable\Documents\Dev\MemCacheManager\FiLogger.Caching.MemoryCache\obj\Debug\netcoreapp2.2\FiLogger.Caching.MemCache.AssemblyInfo.cs
+C:\Users\paul.marrable\Documents\Dev\MemCacheManager\FiLogger.Caching.MemoryCache\obj\Debug\netcoreapp2.2\FiLogger.Caching.MemCache.dll
+C:\Users\paul.marrable\Documents\Dev\MemCacheManager\FiLogger.Caching.MemoryCache\obj\Debug\netcoreapp2.2\FiLogger.Caching.MemCache.pdb
