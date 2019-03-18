@@ -4,7 +4,7 @@
                This libary is free to use but please leave this comment here :)
 *---------------------------------------------------------------------------------*/
 
-namespace FiLogger.Caching.MemCache
+namespace Caching.MemCache
 {
 
     //Add you caching keys here!

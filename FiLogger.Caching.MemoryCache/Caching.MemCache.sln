@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FiLogger.Caching.MemCache", "FiLogger.Caching.MemCache.csproj", "{A344CB35-28BD-4EF2-B3C1-FF7849C093EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Caching.MemCache", "Caching.MemCache.csproj", "{A344CB35-28BD-4EF2-B3C1-FF7849C093EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -987,9 +987,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paul.marrable\\Documents\\Dev\\MemCacheManager\\FiLogger.Caching.MemoryCache\\FiLogger.Caching.MemCache.csproj",
-      "projectName": "FiLogger.Caching.MemCache",
-      "projectPath": "C:\\Users\\paul.marrable\\Documents\\Dev\\MemCacheManager\\FiLogger.Caching.MemoryCache\\FiLogger.Caching.MemCache.csproj",
+      "projectUniqueName": "C:\\Users\\paul.marrable\\Documents\\Dev\\MemCacheManager\\FiLogger.Caching.MemoryCache\\Caching.MemCache.csproj",
+      "projectName": "Caching.MemCache",
+      "projectPath": "C:\\Users\\paul.marrable\\Documents\\Dev\\MemCacheManager\\FiLogger.Caching.MemoryCache\\Caching.MemCache.csproj",
       "packagesPath": "C:\\Users\\paul.marrable\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\paul.marrable\\Documents\\Dev\\MemCacheManager\\FiLogger.Caching.MemoryCache\\obj\\",
       "projectStyle": "PackageReference",

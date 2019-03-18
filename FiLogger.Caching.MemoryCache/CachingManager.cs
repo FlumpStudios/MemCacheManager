@@ -4,11 +4,11 @@
                This libary is free to use but please leave this comment here :)
 *---------------------------------------------------------------------------------*/
 
-using FiLogger.Caching.MemCache.Contracts;
+using Caching.MemCache.Contracts;
 using Microsoft.Extensions.Caching.Memory;
 using System;
 
-namespace FiLogger.Caching.MemCache
+namespace Caching.MemCache
 {
     public class CachingManager : ICachingManager
     {

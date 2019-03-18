@@ -5,14 +5,14 @@
 *---------------------------------------------------------------------------------*/
 
 using Microsoft.Extensions.Caching.Memory;
-using FiLogger.Caching.MemCache.Contracts;
+using Caching.MemCache.Contracts;
 
-namespace FiLogger.Caching.MemCache
+namespace Caching.MemCache
 {
-    public class YourCustomerMemoryCache : ICustomMemCache
+    public class YourCustomMemoryCache : ICustomMemCache
     {
         public MemoryCache Cache { get; set; }
-        public YourCustomerMemoryCache(int sizeLimit = 1000)
+        public YourCustomMemoryCache(int sizeLimit = 1000)
         {
             Cache = new MemoryCache(new MemoryCacheOptions
             {

@@ -6,7 +6,7 @@
 
 using Microsoft.Extensions.Caching.Memory;
 
-namespace FiLogger.Caching.MemCache.Contracts
+namespace Caching.MemCache.Contracts
 {
     public interface ICustomMemCache
     {

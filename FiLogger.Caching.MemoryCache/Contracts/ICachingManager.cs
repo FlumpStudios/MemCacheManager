@@ -6,7 +6,7 @@
 
 using System;
 
-namespace FiLogger.Caching.MemCache.Contracts
+namespace Caching.MemCache.Contracts
 {
     public interface ICachingManager
     {
